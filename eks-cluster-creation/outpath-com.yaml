@@ -8,7 +8,7 @@ metadata:
   namespace: default
 spec:
   selector:
-    istio: ingressgateway-com
+    istio: ingressgateway-com   # sample query
   servers:
   - hosts:
     - '*'
